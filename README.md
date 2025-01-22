@@ -1,1 +1,1 @@
-# 2D-Snooker
+# 2D Snooker Mini-Game
